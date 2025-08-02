@@ -1,0 +1,37 @@
+{
+  "fancymenu.worldcards.layout": "Card Layout",
+  "fancymenu.worldcards.layout.desc": "Configure the layout and spacing of world cards",
+  "fancymenu.worldcards.layout.auto_layout": "Auto Layout: %s",
+  "fancymenu.worldcards.layout.cards_per_row": "%d Cards Per Row",
+  "fancymenu.worldcards.layout.card_width": "Card Width",
+  "fancymenu.worldcards.layout.card_height": "Card Height", 
+  "fancymenu.worldcards.layout.card_spacing": "Card Spacing",
+  
+  "fancymenu.worldcards.appearance": "Card Appearance",
+  "fancymenu.worldcards.appearance.desc": "Configure colors and visual themes for world cards",
+  "fancymenu.worldcards.appearance.background_color": "Background Color",
+  "fancymenu.worldcards.appearance.text_color": "Text Color",
+  "fancymenu.worldcards.theme.default": "Default Theme",
+  "fancymenu.worldcards.theme.dark": "Dark Theme",
+  "fancymenu.worldcards.theme.light": "Light Theme", 
+  "fancymenu.worldcards.theme.blue": "Blue Theme",
+  "fancymenu.worldcards.theme.green": "Green Theme",
+  
+  "fancymenu.worldcards.information": "Information Display",
+  "fancymenu.worldcards.information.desc": "Configure what information is shown on world cards",
+  "fancymenu.worldcards.info.show_last_played": "Show Last Played: %s",
+  "fancymenu.worldcards.info.show_world_size": "Show World Size: %s", 
+  "fancymenu.worldcards.info.show_game_mode": "Show Game Mode: %s",
+  "fancymenu.worldcards.info.show_difficulty": "Show Difficulty: %s",
+  "fancymenu.worldcards.info.show_version": "Show Version: %s",
+  
+  "fancymenu.worldcards.buttons": "Card Buttons",
+  "fancymenu.worldcards.buttons.desc": "Configure which buttons appear on world cards",
+  "fancymenu.worldcards.buttons.show_buttons": "Enable Buttons: %s",
+  "fancymenu.worldcards.buttons.show_play_button": "Show Play Button: %s",
+  "fancymenu.worldcards.buttons.show_edit_button": "Show Edit Button: %s", 
+  "fancymenu.worldcards.buttons.show_delete_button": "Show Delete Button: %s",
+  
+  "fancymenu.worldcards.refresh_data": "Refresh World Data",
+  "fancymenu.worldcards.refresh_data.desc": "Refresh the list of worlds and update the display"
+}

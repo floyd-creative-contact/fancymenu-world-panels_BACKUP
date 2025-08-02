@@ -1,0 +1,157 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-07-29T06:18:48.914935900Z",
+  "worldCount": 0,
+  "slots": [
+    {
+      "slotIndex": 0,
+      "hasWorld": false,
+      "world": {
+        "name": "",
+        "gamemode": "",
+        "difficulty": "",
+        "lastPlayed": "",
+        "size": "",
+        "hasIcon": false,
+        "isEmpty": true
+      }
+    },
+    {
+      "slotIndex": 1,
+      "hasWorld": false,
+      "world": {
+        "name": "",
+        "gamemode": "",
+        "difficulty": "",
+        "lastPlayed": "",
+        "size": "",
+        "hasIcon": false,
+        "isEmpty": true
+      }
+    },
+    {
+      "slotIndex": 2,
+      "hasWorld": false,
+      "world": {
+        "name": "",
+        "gamemode": "",
+        "difficulty": "",
+        "lastPlayed": "",
+        "size": "",
+        "hasIcon": false,
+        "isEmpty": true
+      }
+    },
+    {
+      "slotIndex": 3,
+      "hasWorld": false,
+      "world": {
+        "name": "",
+        "gamemode": "",
+        "difficulty": "",
+        "lastPlayed": "",
+        "size": "",
+        "hasIcon": false,
+        "isEmpty": true
+      }
+    },
+    {
+      "slotIndex": 4,
+      "hasWorld": false,
+      "world": {
+        "name": "",
+        "gamemode": "",
+        "difficulty": "",
+        "lastPlayed": "",
+        "size": "",
+        "hasIcon": false,
+        "isEmpty": true
+      }
+    },
+    {
+      "slotIndex": 5,
+      "hasWorld": false,
+      "world": {
+        "name": "",
+        "gamemode": "",
+        "difficulty": "",
+        "lastPlayed": "",
+        "size": "",
+        "hasIcon": false,
+        "isEmpty": true
+      }
+    },
+    {
+      "slotIndex": 6,
+      "hasWorld": false,
+      "world": {
+        "name": "",
+        "gamemode": "",
+        "difficulty": "",
+        "lastPlayed": "",
+        "size": "",
+        "hasIcon": false,
+        "isEmpty": true
+      }
+    },
+    {
+      "slotIndex": 7,
+      "hasWorld": false,
+      "world": {
+        "name": "",
+        "gamemode": "",
+        "difficulty": "",
+        "lastPlayed": "",
+        "size": "",
+        "hasIcon": false,
+        "isEmpty": true
+      }
+    },
+    {
+      "slotIndex": 8,
+      "hasWorld": false,
+      "world": {
+        "name": "",
+        "gamemode": "",
+        "difficulty": "",
+        "lastPlayed": "",
+        "size": "",
+        "hasIcon": false,
+        "isEmpty": true
+      }
+    },
+    {
+      "slotIndex": 9,
+      "hasWorld": false,
+      "world": {
+        "name": "",
+        "gamemode": "",
+        "difficulty": "",
+        "lastPlayed": "",
+        "size": "",
+        "hasIcon": false,
+        "isEmpty": true
+      }
+    }
+  ],
+  "gridLayouts": {
+    "grid2x2": {
+      "rows": 2,
+      "suitable": true,
+      "maxWorlds": 4,
+      "columns": 2
+    },
+    "grid3x3": {
+      "rows": 3,
+      "suitable": true,
+      "maxWorlds": 9,
+      "columns": 3
+    },
+    "grid4x3": {
+      "rows": 3,
+      "suitable": true,
+      "maxWorlds": 12,
+      "columns": 4
+    }
+  }
+}
